@@ -1,6 +1,7 @@
 # IPL2024RCBvsDC
 The match between RCB and Delhi Capitals was one of my favorite matches in the IPL this year. My analysis of the complete IPL match RCB vs DC 2024.
-Some of images are:
+
+Some of the images that show insights are:
 ![image](https://github.com/Ravindranathkv/IPL2024RCBvsDC/assets/118389425/157f2418-c082-4e4a-a427-f7081fd928f4)
 ![image](https://github.com/Ravindranathkv/IPL2024RCBvsDC/assets/118389425/f3f06ac9-cb63-4f56-9229-0d0030c77dcb)
 ![image](https://github.com/Ravindranathkv/IPL2024RCBvsDC/assets/118389425/2c5a2623-aa0b-473d-87a0-589fa57c0ae6)
